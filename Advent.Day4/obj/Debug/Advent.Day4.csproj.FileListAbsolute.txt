@@ -1,0 +1,7 @@
+C:\Users\cfa479\Source\Repos\Advent.2017\Advent.Day4\bin\Debug\Advent.Day4.exe.config
+C:\Users\cfa479\Source\Repos\Advent.2017\Advent.Day4\bin\Debug\Advent.Day4.exe
+C:\Users\cfa479\Source\Repos\Advent.2017\Advent.Day4\bin\Debug\Advent.Day4.pdb
+C:\Users\cfa479\Source\Repos\Advent.2017\Advent.Day4\obj\Debug\Advent.Day4.csprojAssemblyReference.cache
+C:\Users\cfa479\Source\Repos\Advent.2017\Advent.Day4\obj\Debug\Advent.Day4.csproj.CoreCompileInputs.cache
+C:\Users\cfa479\Source\Repos\Advent.2017\Advent.Day4\obj\Debug\Advent.Day4.exe
+C:\Users\cfa479\Source\Repos\Advent.2017\Advent.Day4\obj\Debug\Advent.Day4.pdb
